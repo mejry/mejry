@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mejri Mohamed Aziz</h1>
 <h3 align="center">A passionate frontend developer from Passionate Software Engineer | Building Efficient Solutions for a Better TomorrowIndia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mejry&label=Profile%20views&color=0e75b6&style=flat" alt="mejry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mejry" alt="mejry" /></a> </p>
 
 - 🌱 I’m currently learning **React Naiv**
 
